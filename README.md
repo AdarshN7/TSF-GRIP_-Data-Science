@@ -1,4 +1,4 @@
-# Prediction-using-Supervised-ML
+# THE SPARK FOUNDATION GRIP OCTOBER 2021
 
 ## Data Science and Business Analytics
 
